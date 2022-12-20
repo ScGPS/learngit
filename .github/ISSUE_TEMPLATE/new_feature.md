@@ -1,4 +1,3 @@
-
 ---
 name: New feature
 about: New feature for this repo
